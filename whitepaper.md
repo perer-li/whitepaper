@@ -266,66 +266,66 @@ TPT is a digital Token that uses the TPT platform as one of its usage scenarios,
 
 As a new way of investment, there are various risks associated with the purchase of cryptocurrencies. Potential purchasers should carefully evaluate these risks based on their own risk tolerance.
 
-1. Risks associated with markets for TPT
+### 1. Risks associated with markets for TPT
 
 There is no prior market for TPT and the TPT token sale may not
 result in an active or liquid market for TPT. TPT is designed to be used solely within the ecosystem on the Trusted Property Platform, hence there may be illiquidity risk with respect to the TPT you hold. TPT is not a currency issued by any central bank or national, supra-national or quasi-national organization, nor is it backed by any hard assets or other credit nor is it a "commodity" in the usual and traditional sense of that word. We are not responsible for, nor do we pursue, the circulation and trading of TPT on any market. Trading of TPT will merely depend on the consensus on its value between the relevant market participants. No one is obliged to purchase any TPT from any holder of TPT, including the purchasers, nor does anyone guarantee the liquidity or market price of TPT to any extent at any time. Furthermore, TPT may not be resold to purchasers where the purchase of TPT may be in violation of applicable laws. Accordingly, we cannot ensure that there will be any demand or market for TPT, or that the price you pay for TPT is indicative of any market valuation or market price for TPT.
 
 Even if secondary trading of TPT is facilitated by third party exchanges, such exchanges may be relatively new and subject to little or no regulatory oversight, making them more susceptible to fraud or manipulation. Furthermore, to the extent that third parties do ascribe an external exchange value to TPT (e.g., as denominated in a digital or fiat currency), such value may be extremely volatile, decline below the price which you have paid for TPT, and/or diminish to zero.
 
-1. Regulatory Risks
+### 2. Regulatory Risks
 
 The blockchain industry is still at its early stage of development,not only China but also the rest of the world do not have relevant legal documents regarding pre-ICO requirements, transaction requirement, information disclosure requirement, lock-up requirements. Also, it is not clear how current policies will be implemented, which may negatively impact TPT and the Trusted Property Platform. Since blockchain technology has become the major target of regulation in most countries, if regulatory agencies intervene or influence the blockchain industry in general, TPT and applications on the Trusted Property Platform may be affected as a result. Such intervention may include, without limitation, legal restriction on the use and sales of token, restrictions on applications on the Trusted Property Platform and the usage of TPT.
 
-1. Competition Risks
+### 3. Competition Risks
 
 With the development of information technology and mobile internet, digital assets represented by “Bitcoin” have emerged, and various kinds of decentralized applications have continued to emerge, competition in this industry has become increasingly fierce. However, with the proliferation and expansion of other application platforms, the community will face continuously operating pressure and certain market competition risks.
 
-1. Risks of Loss of Staff
+### 4. Risks of Loss of Staff
 
 The Foundation has gathered a team of experienced technical and consultant experts with respective professional advantages and rich experience, which include professionals engaged in blockchain industry for a long term, in addition to experienced internet product development and operation core team members. The stability of core team and advisory resources is important for the continued development of Trusted Property and the Trusted Property Platform. The loss of core staff or advisory board consultant may affect the stability of the platform or adversely affect future development.
 
-1. Risks due to lack of funds
+### 5. Risks due to lack of funds
 
 If the price of the tokens contributed for development is greatly decreased, or development time is much longer than expected, or any other relevant reasons, it is likely to lead to a shortage of funds, resulting in certain development goals being unrealized.
 
-1. Risks of losing private keys
+### 6. Risks of losing private keys
 
 After investors transfer TPT to their own digital wallet addresses, the only way to keep the contents of operation address is the relevant encrypted key purchasers have (namely the private key or wallet password). The user is responsible for protecting relevant keys and use them to sign transactions which can prove asset ownership. Users should understand and accept that if the private key or wallet password is lost or stolen, then acquired TPT associated with the user account (address) or password will not be restored and will be permanently lost. The best way to store a login credential is to separate the key into one or several local security stores, preferably not on a public computer.
 
-1. Risks of being hacked or stolen
+### 7. Risks of being hacked or stolen
 
 Some hackers, or certain organization, countries may attempt to interrupt the operation of TPT and the Trusted Property Platform, which include but not limited to denial of service attack, Sybil attack, gaming attack, malware attacks or consistency attack.
 
-1. Risks of uninsured loss
+### 8. Risks of uninsured loss
 
 Unlike bank accounts or accounts of other financial institutions, there is usually no insurance for data stored on Trusted Property or in the ecosystem on the Trusted Property Platform. In any event of loss, there will not have any public or individual organizations to cover the loss.
 
-1. Risks associated with core protocols
+### 9. Risks associated with core protocols
 
 Currently Trusted Property and the Trusted Property Platform is developed based
 on the Ethereum protocol. If there is a fault or similar incident with the Ethereum protocol, unexpected functional problems or attacks are likely to cause interruptions to the usage of TPT or the Trusted Property Platform, or certain reduced functionalities.
 
-1. Systematic Risks
+### 10. Systematic Risks
 
 The risk of a fatal flaw in an open source software or a massive failure of global network infrastructure will cause risks as well. Although some of these risks are greatly reduced over time, such as repairing of loopholes and breakthrough of calculation bottleneck. However, some other parts are still unpredictable, such as political factors or natural disasters causing global Internet interruptions.
 
-1. Risks of vulnerability or acceleration development of cryptography
+### 11. Risks of vulnerability or acceleration development of cryptography
 
 The accelerated development of cryptography or the development of technology like quantum computing, will bring risks of decoding Trusted Property, which may lead to the loss of TPT.
 
-1. Risks of lack of attention towards application
+### 12. Risks of lack of attention towards application
 
 The Trusted Property Platform may have risks of not being used by a large number of individuals or organisation, which means the public has little interest to develop DApps on the Trusted Property Platform, which might adversely affect TPT and the Trusted Property Platform.
 
-1. The risks of not being recognised or lack of users
+### 13. The risks of not being recognised or lack of users
 
 TPT should not be treated as an investment. Where it is not recognised by the market or not widely used, its value may be very small. Possibly, for any reason, including but not limited to commercial relations or failures in marketing strategy, the Trusted Property Platform and all subsequent marketing sales might be unsuccessful. If it happens, there will be no such platform or little follow-ups. This will be very detrimental to this project.
 
-1. Default risks of Applications
+### 14. Default risks of Applications
 
 The Trusted Property Platform may not be able to provide services due to various reasons, such as during large-scale node downtime, which may result in loss of TPT for users. 15.Risks of applications or product not reaching its own or purchaser’s expectations The Trusted Property Platform is still in the developmental stage, hence there may be large changes to the final design before the official version is released, therefore, a purchaser of TPT may find that it does not meet previous expectation of Trusted Property Application or TPT’s functionalities or forms. Any wrong analysis or a change in design might lead to such situation.
 
-1. Other unexpected risks
+### 15. Other unexpected risks
 
 Digital tokens (such as TPT) based on cryptography are a brand new and untested technology, besides risks mentioned in this whitepaper, there might be other risks the founding team has not anticipated or not mentioned. Additionally, some other risks might arise suddenly, or in a combination of the above mentioned risks.
