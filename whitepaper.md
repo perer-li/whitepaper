@@ -1,7 +1,5 @@
 # Trusted Property Token White Paper
 
-![logo](images/logo.png)
-
 ## 1. Background
 
 As early as 2005, Nick Szabo described how “new advances in replicated database technology” can be used as registry for ownership of land. This was ahead of its time, and an effective replicated database system did not appear until 2009, when Satoshi Nakamoto created Bitcoin. Bitcoin was designed as a decentralized peer-to-peer digital currency, but the idea of recording the transactions in a public ledger called blockchain was found useful for other use cases.
