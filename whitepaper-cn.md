@@ -1,4 +1,4 @@
-                          #  Trusted Property Token 白皮书
+                                                # Trusted Property Token 白皮书
                           
 ## 1．背景
 
