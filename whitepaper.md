@@ -234,13 +234,13 @@ Project tokens: 10 billion
 
 Pre-sale and Cornerstone Investors: 10% (30% locked for 6 months, 30% locked for 12 months; minimum purchase limit: 50ETH)
 
-Private Equity and Institutional Investment: 20% (30% locked for 6 months, 30% locked for 12 months; minimum purchase limit: 50ETH)
+Private Equity and Institutional Investment: 30% (30% locked for 6 months, 30% locked for 12 months; minimum purchase limit: 50ETH)
 
-Foundation holds: 25% (ecological incentives, community building and cooperation promotion)
+Foundation holds: 20% (ecological incentives, community building and cooperation promotion)
 
 Founding team: 20%
 
-Going concern and technology development: 25%
+Going concern and technology development: 20%
 
 _3 months lock-up of tokens held by Foundations, Founding Teams, Continuing Operations and Technology Development with a 24-month turnaround time and 12.5% quarterly. Calculated from the end of Token Sale._
 
