@@ -53,8 +53,10 @@ TPT的智能合约主要体现在两个方面：
 （1）租房智能合约化
 ![rent](images/rentmodel-cn.png)
 
+
 （2）买房智能合约化
 ![sale](images/salemodel-cn.png)
+
 （3）应用案例
 
 •	个人信息验证
