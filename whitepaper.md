@@ -1,4 +1,4 @@
-# Trusted Property Token White Paper
+# Trusted Property Protocol White Paper
 
 ## 1. Background
 
