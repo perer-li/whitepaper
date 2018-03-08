@@ -48,11 +48,11 @@ Ethereum does not only have the distributed ledger as Bitcoin, it also support s
 
 Therefore, smart contracts provide a very promising solution to the management of real estate transactions without the need to trust a centralized third-party institution. With the introduction of smart contracts many problems in the real estate transaction process can be solved.
 
-Through smart contract on blockchain, the TPT (Trusted Property Token) team will take advantage of the immutable property ownership information, decentralized transaction mechanism, in combination with cloud computing, big data, artificial intelligence and solutions from mobile payment system, to create a credible, decentralized real estate property trading platform. The platform is for all participants in a property leasing and buying process, including brokers, buyers, sellers, lenders, tenants, owners, investors, and registrars. This will solve the problem of fraud, and improve transaction security and efficiency.
+Through smart contract on blockchain, the TPP (Trusted Property Protocol) team will take advantage of the immutable property ownership information, decentralized transaction mechanism, in combination with cloud computing, big data, artificial intelligence and solutions from mobile payment system, to create a credible, decentralized real estate property trading platform. The platform is for all participants in a property leasing and buying process, including brokers, buyers, sellers, lenders, tenants, owners, investors, and registrars. This will solve the problem of fraud, and improve transaction security and efficiency.
 
 ## 4. Business Model
 
-TPT's smart contracts are used in both renting and buying.
+TPP's smart contracts are used in both renting and buying.
 
 ### Use cases
 
@@ -64,7 +64,7 @@ In buying and sometimes renting, banks, solicitors, and property registries must
 
 * Decentralized property data verification
 
-Same as personal data, TPT property data module digitizes the process of property data exchange. Again it is stored on the DApp and isn’t shared unless authorized by the user. Even when it is shared, depending on the circumstance, it can take advantage of zero-knowledge proof, in order to provide sufficient proof yet without revealing the data.
+Same as personal data, TPP property data module digitizes the process of property data exchange. Again it is stored on the DApp and isn’t shared unless authorized by the user. Even when it is shared, depending on the circumstance, it can take advantage of zero-knowledge proof, in order to provide sufficient proof yet without revealing the data.
 
 * Secure Deposit
 
@@ -73,7 +73,7 @@ Create an escrow transaction, which needs two signatures from three people, the 
 * Micro Investment
 
 Using smart contract, ownership of one property can be split into multiple shares purchased by a group of individuals. Decisions on the shared property can be made through votes on the blockchain.
-Usage of TP Token
+Usage of TPP Token
 
 * Incentives for users
 
@@ -81,61 +81,61 @@ Tokens are rewarded to encourage users to upload identity and real estate inform
 
 * Advertising fee for real estate agencies
 
-Real estate developers buy TPT in the same way as they would pay advertising fee. They post real estate information on DApp, and then pay real customers who view real estate information for their attention using TPT.
+Real estate developers buy TPP in the same way as they would pay advertising fee. They post real estate information on DApp, and then pay real customers who view real estate information for their attention using TPP.
 
 * Currency to pay for properties and services
 
-For all transactions in renting or buying a property, TPT can be used as the currency to pay landlord for the rent, seller for the property, or estate agency for service. Whenever it is used over fiat currency, discounts will be given.
+For all transactions in renting or buying a property, TPP can be used as the currency to pay landlord for the rent, seller for the property, or estate agency for service. Whenever it is used over fiat currency, discounts will be given.
 
 * Referrals
 
-Users are rewarded with tokens by referring friends to register and use the DApp, and the reward continues if the referred user pays for property or service using TPT tokens.
+Users are rewarded with tokens by referring friends to register and use the DApp, and the reward continues if the referred user pays for property or service using TPP tokens.
 
 * Reviews and ratings
 
 Users are rewarded with tokens by creating reviews and ratings to influence the counterparty credit rating. The reviews and ratings are stored as immutable data on the blockchain.
 
-TPT's future development plan is to eliminate fraud in existing real estate transactions through decentralization and intermediation, reduce transaction costs and shorten transaction time. TPT will come up with a certain percentage of profits to repurchase tokens to repay the development of entire ecosystem.
+TPP's future development plan is to eliminate fraud in existing real estate transactions through decentralization and intermediation, reduce transaction costs and shorten transaction time. TPP will come up with a certain percentage of profits to repurchase tokens to repay the development of entire ecosystem.
 
-TPT will continue to implement new solutions and promote its applications in major real estate markets including but not limited to property rights investigations, short term leases, long term leases, credit deposits, real estate sales, mortgages and asset securitizations. The ultimate goal of TPT is to digitize every real estate related transaction and run it on the blockchain.
+TPP will continue to implement new solutions and promote its applications in major real estate markets including but not limited to property rights investigations, short term leases, long term leases, credit deposits, real estate sales, mortgages and asset securitizations. The ultimate goal of TPP is to digitize every real estate related transaction and run it on the blockchain.
 
 ## 5. Technical Implementation
 
-TPT is a decentralized independent platform, which runs smart contracts specifically designed for real estate business. TPT token is an ERC20 token. The transactions on the TPT platform is paid in TPT tokens.
+TPP is a decentralized independent platform, which runs smart contracts specifically designed for real estate business. TPP token is an ERC20 token. The transactions on the TPP platform is paid in TPP tokens.
 
 ### Design Principles
 
 * Maximized removal of 3rd party
 
-As TPT is built on top of blockchain technology, the much needed 3rd parties, who provide the trust, can be removed. We believe with blockchain technology goes mainstream, all 3rd parties can be removed eventually. However, we also realise based on current law and regulation, they cannot be removed completely just yet. We are taking a progressive approach to remove 3rd parties over time, so we can make the product available to consumers sooner, in order to save the cost and time of transactions.
+As TPP is built on top of blockchain technology, the much needed 3rd parties, who provide the trust, can be removed. We believe with blockchain technology goes mainstream, all 3rd parties can be removed eventually. However, we also realise based on current law and regulation, they cannot be removed completely just yet. We are taking a progressive approach to remove 3rd parties over time, so we can make the product available to consumers sooner, in order to save the cost and time of transactions.
 
 * Authenticity
 
-In comparison with traditional platform, TPT provides genuine and immutable data. Data on the platform is confirmed by multiple parties to ensure authenticity. The blockchain increases accountability and promotes reliability with proper, immutable data. 
+In comparison with traditional platform, TPP provides genuine and immutable data. Data on the platform is confirmed by multiple parties to ensure authenticity. The blockchain increases accountability and promotes reliability with proper, immutable data. 
 
 * Privacy
 
-Property and personal data is highly private. Data on TPT platform is owned by user. The platform also provides fine grained access control. Data is securely shared only when permission is granted. Computation on the platform uses zkSNARKs, therefore correctness of the computation can be verified without having to be executed, and what was executed even does not need to be revealed.
+Property and personal data is highly private. Data on TPP platform is owned by user. The platform also provides fine grained access control. Data is securely shared only when permission is granted. Computation on the platform uses zkSNARKs, therefore correctness of the computation can be verified without having to be executed, and what was executed even does not need to be revealed.
 
 * intelligence
 
-TPT platform uses artificial intelligence and machine learning to perform mass data analysis and classification, natural language processing, and fraud detection, all of which is impossible with systems which depend on repetitive human effort.
+TPP platform uses artificial intelligence and machine learning to perform mass data analysis and classification, natural language processing, and fraud detection, all of which is impossible with systems which depend on repetitive human effort.
 
 * Scalability and high performance
 
-With the constant increasing trading volume and user base on TPT platform, Single blockchain system will very likely be congested, To remove the potential performance bottleneck, DAG (Directed Acyclic Graph) system is adopted in our design. Within DAG, users can submit data unit to the system, data unit contains information like transaction and communication messages..etc. The data units are connected with each other through a relation map which forms the directed acyclic graph. DAG allows data to be asynchronizely written into the system so that the overall system throughput can be significantly improved.
+With the constant increasing trading volume and user base on TPP platform, Single blockchain system will very likely be congested, To remove the potential performance bottleneck, DAG (Directed Acyclic Graph) system is adopted in our design. Within DAG, users can submit data unit to the system, data unit contains information like transaction and communication messages..etc. The data units are connected with each other through a relation map which forms the directed acyclic graph. DAG allows data to be asynchronizely written into the system so that the overall system throughput can be significantly improved.
  
 * Interoperability
 
-TPT supports cross-chain address mapping, i.e. address and public key on a specific blockchain can be mapped onto the TPT chain so that the address of an user on an existing blockchain can be translated to the TPT blockchain address which allows communication between users from different blockchain through TPT system.
+TPP supports cross-chain address mapping, i.e. address and public key on a specific blockchain can be mapped onto the TPP so that the address of an user on an existing blockchain can be translated to the TPP blockchain address which allows communication between users from different blockchain through TPP system.
 
 * Openness
 
-TPT has an open API making it easy to connect to other systems, which creates a seamless network improving value transfer.
+TPP has an open API making it easy to connect to other systems, which creates a seamless network improving value transfer.
 
 * Incentive mechanism
 
-TPT platform rewards users who provide high value information, or receive good reviews. Incentives are implemented in smart contracts. Rewards include free tokens or discounted transaction fees.
+TPP platform rewards users who provide high value information, or receive good reviews. Incentives are implemented in smart contracts. Rewards include free tokens or discounted transaction fees.
 
 ### Main modules
 
@@ -158,10 +158,15 @@ Artificial intelligence module is used to identify fake information, analyze lar
 ### Tech Stack
 
 * solidity/vyper for smart contract
+
 * TensorFlow for deep learning
+
 * python for backend api
+
 * reactjs for web front end
+
 * react native for mobile app
+
 
 ![tech stack](images/tech-stack-en.png)
 
@@ -171,15 +176,15 @@ Artificial intelligence module is used to identify fake information, analyze lar
 
 ## 7. Ecosystem Roadmap and Community Structure
 
-The TPT community will be managed by a foundation based in Singapore. As the legal entity of the TPT community, the organization will be fully responsible for the technical development, business promotion and community operations of TPT and assume the legal responsibility of all TPTs.
+The TPP community will be managed by a foundation based in Singapore. As the legal entity of the TPP community, the organization will be fully responsible for the technical development, business promotion and community operations of TPP and assume the legal responsibility of all TPPs.
 
-In order to ensure that the entire TPT community operates efficiently in an open and transparent manner, TPT will set up a TPT Fund Committee (hereinafter referred to as the Foundation). Under the TPT Fund Committee, there is a decision-making committee, the highest decision-making body of the Foundation. The implementing agency has the power to decide on the use, freezing, rewards, penalties, etc. of the funds of the foundation. The members of the decision making committee shall be elected by the community. The term of the policy committee is two years. After the term expires, the TPT community will be elected.
+In order to ensure that the entire TPP community operates efficiently in an open and transparent manner, TPP will set up a TPP Fund Committee (hereinafter referred to as the Foundation). Under the TPP Fund Committee, there is a decision-making committee, the highest decision-making body of the Foundation. The implementing agency has the power to decide on the use, freezing, rewards, penalties, etc. of the funds of the foundation. The members of the decision making committee shall be elected by the community. The term of the policy committee is two years. After the term expires, the TPP community will be elected.
 
 There are 5 implementing agencies under the decision-making committee:
-Business Committee - TPT business promotion, business development, ecological construction and so on.
-Technical Committee - TPT technology development and management, code open source management, Github open source code maintenance, community technology update assessment, members generally by the blockchain technical experts at home and abroad.
+Business Committee -  business promotion, business development, ecological construction and so on.
+Technical Committee -  technology development and management, code open source management, Github open source code maintenance, community technology update assessment, members generally by the blockchain technical experts at home and abroad.
 Community committees - domestic and international community operations and management, domestic and international community planning activities, domestic and international community docking resources, community reward distribution, community punishment implementation. Members are generally active members of the community.
-Public Relations Committee - TPT project progress notification, public relations issues, external publicity, members generally by the TPT contracting public relations company representatives.
+Public Relations Committee -  project progress notification, public relations issues, external publicity, members generally by the TPP contracting public relations company representatives.
 Personnel Finance Committee - is responsible for the daily grant of Foundation members, the normal financial expenses, volunteer recruitment and so on.
 
 After the establishment of the Executive Committee, the decision-making committee appoints the responsible persons of each implementing agency. The responsible person will undertake the operation and management under the relevant business functions and the coordination of work among the individual agencies. The responsible person shall report regularly to the decision-making committee.
@@ -250,30 +255,30 @@ This document is for informational purposes only and does not constitute the opi
 
 This document does not constitute any investment advice, investment intentions or instigation of investment in the form of securities. This document does not constitute or understand any offer or purchase, nor any offer to buy or sell, any type of securities, nor any type of contract or promise.
 
-All examples of benefits and profits in this document are for demonstration purposes only or represent industry averages and do not constitute a warranty for the user's participation in the results. TPT makes it clear that relevant users have a clear understanding of the risks of the TPT platform. Once investors participate in the investment, they understand and accept the risks of the project and are willing to undertake all the corresponding results or consequences for this purpose.
+All examples of benefits and profits in this document are for demonstration purposes only or represent industry averages and do not constitute a warranty for the user's participation in the results. TPT makes it clear that relevant users have a clear understanding of the risks of the TPP platform. Once investors participate in the investment, they understand and accept the risks of the project and are willing to undertake all the corresponding results or consequences for this purpose.
 
-TPT expressly disclaims any direct or indirect loss caused by any participation in the TPT Program including:
+TPP expressly disclaims any direct or indirect loss caused by any participation in the TPP Program including:
 
 1. This document provides the reliability of all information
 2. any resulting errors, omissions or inaccuracies
 3. or any action resulting therefrom.
 
-TPT is a digital Token that uses the TPT platform as one of its usage scenarios, and TPT is not an investment. We can not guarantee that TPT will add value, and it is also possible that there will be a drop in value under certain circumstances. Given the unpredictable circumstances, the goals outlined in this white paper may change. Although the team will do its utmost to achieve all of the objectives of this white paper, all individuals and groups that purchase TPT will be at risk.
+TPP is a digital Token that uses the TPP platform as one of its usage scenarios, and TPP is not an investment. We can not guarantee that TPP will add value, and it is also possible that there will be a drop in value under certain circumstances. Given the unpredictable circumstances, the goals outlined in this white paper may change. Although the team will do its utmost to achieve all of the objectives of this white paper, all individuals and groups that purchase TPP will be at risk.
 
 ## 10. Risk Warning
 
 As a new way of investment, there are various risks associated with the purchase of cryptocurrencies. Potential purchasers should carefully evaluate these risks based on their own risk tolerance.
 
-### 1. Risks associated with markets for TPT
+### 1. Risks associated with markets for TPP
 
-There is no prior market for TPT and the TPT token sale may not
-result in an active or liquid market for TPT. TPT is designed to be used solely within the ecosystem on the Trusted Property Platform, hence there may be illiquidity risk with respect to the TPT you hold. TPT is not a currency issued by any central bank or national, supra-national or quasi-national organization, nor is it backed by any hard assets or other credit nor is it a "commodity" in the usual and traditional sense of that word. We are not responsible for, nor do we pursue, the circulation and trading of TPT on any market. Trading of TPT will merely depend on the consensus on its value between the relevant market participants. No one is obliged to purchase any TPT from any holder of TPT, including the purchasers, nor does anyone guarantee the liquidity or market price of TPT to any extent at any time. Furthermore, TPT may not be resold to purchasers where the purchase of TPT may be in violation of applicable laws. Accordingly, we cannot ensure that there will be any demand or market for TPT, or that the price you pay for TPT is indicative of any market valuation or market price for TPT.
+There is no prior market for TPP and the TPP token sale may not
+result in an active or liquid market for TPP. TPP is designed to be used solely within the ecosystem on the Trusted Property Procotol, hence there may be illiquidity risk with respect to the TPP you hold. TPP is not a currency issued by any central bank or national, supra-national or quasi-national organization, nor is it backed by any hard assets or other credit nor is it a "commodity" in the usual and traditional sense of that word. We are not responsible for, nor do we pursue, the circulation and trading of TPP on any market. Trading of TPP will merely depend on the consensus on its value between the relevant market participants. No one is obliged to purchase any TPP from any holder of TPP, including the purchasers, nor does anyone guarantee the liquidity or market price of TPP to any extent at any time. Furthermore, TPP may not be resold to purchasers where the purchase of TPP may be in violation of applicable laws. Accordingly, we cannot ensure that there will be any demand or market for TPP, or that the price you pay for TPP is indicative of any market valuation or market price for TPP.
 
-Even if secondary trading of TPT is facilitated by third party exchanges, such exchanges may be relatively new and subject to little or no regulatory oversight, making them more susceptible to fraud or manipulation. Furthermore, to the extent that third parties do ascribe an external exchange value to TPT (e.g., as denominated in a digital or fiat currency), such value may be extremely volatile, decline below the price which you have paid for TPT, and/or diminish to zero.
+Even if secondary trading of TPP is facilitated by third party exchanges, such exchanges may be relatively new and subject to little or no regulatory oversight, making them more susceptible to fraud or manipulation. Furthermore, to the extent that third parties do ascribe an external exchange value to TPP (e.g., as denominated in a digital or fiat currency), such value may be extremely volatile, decline below the price which you have paid for TPP, and/or diminish to zero.
 
 ### 2. Regulatory Risks
 
-The blockchain industry is still at its early stage of development,not only China but also the rest of the world do not have relevant legal documents regarding pre-ICO requirements, transaction requirement, information disclosure requirement, lock-up requirements. Also, it is not clear how current policies will be implemented, which may negatively impact TPT and the Trusted Property Platform. Since blockchain technology has become the major target of regulation in most countries, if regulatory agencies intervene or influence the blockchain industry in general, TPT and applications on the Trusted Property Platform may be affected as a result. Such intervention may include, without limitation, legal restriction on the use and sales of token, restrictions on applications on the Trusted Property Platform and the usage of TPT.
+The blockchain industry is still at its early stage of development,not only China but also the rest of the world do not have relevant legal documents regarding pre-ICO requirements, transaction requirement, information disclosure requirement, lock-up requirements. Also, it is not clear how current policies will be implemented, which may negatively impact TPP and the Trusted Property Platform. Since blockchain technology has become the major target of regulation in most countries, if regulatory agencies intervene or influence the blockchain industry in general, TPP and applications on the Trusted Property Protocol may be affected as a result. Such intervention may include, without limitation, legal restriction on the use and sales of token, restrictions on applications on the Trusted Property Platform and the usage of TPP.
 
 ### 3. Competition Risks
 
@@ -289,11 +294,11 @@ If the price of the tokens contributed for development is greatly decreased, or 
 
 ### 6. Risks of losing private keys
 
-After investors transfer TPT to their own digital wallet addresses, the only way to keep the contents of operation address is the relevant encrypted key purchasers have (namely the private key or wallet password). The user is responsible for protecting relevant keys and use them to sign transactions which can prove asset ownership. Users should understand and accept that if the private key or wallet password is lost or stolen, then acquired TPT associated with the user account (address) or password will not be restored and will be permanently lost. The best way to store a login credential is to separate the key into one or several local security stores, preferably not on a public computer.
+After investors transfer TPP to their own digital wallet addresses, the only way to keep the contents of operation address is the relevant encrypted key purchasers have (namely the private key or wallet password). The user is responsible for protecting relevant keys and use them to sign transactions which can prove asset ownership. Users should understand and accept that if the private key or wallet password is lost or stolen, then acquired TPP associated with the user account (address) or password will not be restored and will be permanently lost. The best way to store a login credential is to separate the key into one or several local security stores, preferably not on a public computer.
 
 ### 7. Risks of being hacked or stolen
 
-Some hackers, or certain organization, countries may attempt to interrupt the operation of TPT and the Trusted Property Platform, which include but not limited to denial of service attack, Sybil attack, gaming attack, malware attacks or consistency attack.
+Some hackers, or certain organization, countries may attempt to interrupt the operation of TPP and the Trusted Property Platform, which include but not limited to denial of service attack, Sybil attack, gaming attack, malware attacks or consistency attack.
 
 ### 8. Risks of uninsured loss
 
@@ -302,7 +307,7 @@ Unlike bank accounts or accounts of other financial institutions, there is usual
 ### 9. Risks associated with core protocols
 
 Currently Trusted Property and the Trusted Property Platform is developed based
-on the Ethereum protocol. If there is a fault or similar incident with the Ethereum protocol, unexpected functional problems or attacks are likely to cause interruptions to the usage of TPT or the Trusted Property Platform, or certain reduced functionalities.
+on the Ethereum protocol. If there is a fault or similar incident with the Ethereum protocol, unexpected functional problems or attacks are likely to cause interruptions to the usage of TPP or the Trusted Property Platform, or certain reduced functionalities.
 
 ### 10. Systematic Risks
 
@@ -310,20 +315,20 @@ The risk of a fatal flaw in an open source software or a massive failure of glob
 
 ### 11. Risks of vulnerability or acceleration development of cryptography
 
-The accelerated development of cryptography or the development of technology like quantum computing, will bring risks of decoding Trusted Property, which may lead to the loss of TPT.
+The accelerated development of cryptography or the development of technology like quantum computing, will bring risks of decoding Trusted Property, which may lead to the loss of TPP.
 
 ### 12. Risks of lack of attention towards application
 
-The Trusted Property Platform may have risks of not being used by a large number of individuals or organisation, which means the public has little interest to develop DApps on the Trusted Property Platform, which might adversely affect TPT and the Trusted Property Platform.
+The Trusted Property Platform may have risks of not being used by a large number of individuals or organisation, which means the public has little interest to develop DApps on the Trusted Property Platform, which might adversely affect TPP and the Trusted Property Platform.
 
 ### 13. The risks of not being recognised or lack of users
 
-TPT should not be treated as an investment. Where it is not recognised by the market or not widely used, its value may be very small. Possibly, for any reason, including but not limited to commercial relations or failures in marketing strategy, the Trusted Property Platform and all subsequent marketing sales might be unsuccessful. If it happens, there will be no such platform or little follow-ups. This will be very detrimental to this project.
+TPP should not be treated as an investment. Where it is not recognised by the market or not widely used, its value may be very small. Possibly, for any reason, including but not limited to commercial relations or failures in marketing strategy, the Trusted Property Platform and all subsequent marketing sales might be unsuccessful. If it happens, there will be no such platform or little follow-ups. This will be very detrimental to this project.
 
 ### 14. Default risks of Applications
 
-The Trusted Property Platform may not be able to provide services due to various reasons, such as during large-scale node downtime, which may result in loss of TPT for users. 15.Risks of applications or product not reaching its own or purchaser’s expectations The Trusted Property Platform is still in the developmental stage, hence there may be large changes to the final design before the official version is released, therefore, a purchaser of TPT may find that it does not meet previous expectation of Trusted Property Application or TPT’s functionalities or forms. Any wrong analysis or a change in design might lead to such situation.
+The Trusted Property Platform may not be able to provide services due to various reasons, such as during large-scale node downtime, which may result in loss of TPP for users. 15.Risks of applications or product not reaching its own or purchaser’s expectations The Trusted Property Platform is still in the developmental stage, hence there may be large changes to the final design before the official version is released, therefore, a purchaser of TPP may find that it does not meet previous expectation of Trusted Property Application or TPP’s functionalities or forms. Any wrong analysis or a change in design might lead to such situation.
 
 ### 15. Other unexpected risks
 
-Digital tokens (such as TPT) based on cryptography are a brand new and untested technology, besides risks mentioned in this whitepaper, there might be other risks the founding team has not anticipated or not mentioned. Additionally, some other risks might arise suddenly, or in a combination of the above mentioned risks.
+Digital tokens (such as TPP) based on cryptography are a brand new and untested technology, besides risks mentioned in this whitepaper, there might be other risks the founding team has not anticipated or not mentioned. Additionally, some other risks might arise suddenly, or in a combination of the above mentioned risks.
