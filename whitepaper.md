@@ -60,7 +60,7 @@ TPP's smart contracts are used in both renting and buying.
 
 * Decentralized personal data verification
 
-In buying and sometimes renting, banks, solicitors, and property registries must verify private personal data about both buyers and sellers. These include personal identity, residential address, income status, no criminal record, and credit history. In a conventional transaction, this is a repetitive task, and quite often done in a traditional, non-digital way, therefore it is cumbersome and error-prone. TPT personal information module digitizes this process. The user can put their own private information on the DApp, and the DApp does not send the data to any central database nor any third party. Only when it is authorized by the user, it is shared with relevant parties or individuals.
+In buying and sometimes renting, banks, solicitors, and property registries must verify private personal data about both buyers and sellers. These include personal identity, residential address, income status, no criminal record, and credit history. In a conventional transaction, this is a repetitive task, and quite often done in a traditional, non-digital way, therefore it is cumbersome and error-prone. TPP personal information module digitizes this process. The user can put their own private information on the DApp, and the DApp does not send the data to any central database nor any third party. Only when it is authorized by the user, it is shared with relevant parties or individuals.
 
 * Decentralized property data verification
 
@@ -255,7 +255,7 @@ This document is for informational purposes only and does not constitute the opi
 
 This document does not constitute any investment advice, investment intentions or instigation of investment in the form of securities. This document does not constitute or understand any offer or purchase, nor any offer to buy or sell, any type of securities, nor any type of contract or promise.
 
-All examples of benefits and profits in this document are for demonstration purposes only or represent industry averages and do not constitute a warranty for the user's participation in the results. TPT makes it clear that relevant users have a clear understanding of the risks of the TPP platform. Once investors participate in the investment, they understand and accept the risks of the project and are willing to undertake all the corresponding results or consequences for this purpose.
+All examples of benefits and profits in this document are for demonstration purposes only or represent industry averages and do not constitute a warranty for the user's participation in the results. TPP makes it clear that relevant users have a clear understanding of the risks of the TPP platform. Once investors participate in the investment, they understand and accept the risks of the project and are willing to undertake all the corresponding results or consequences for this purpose.
 
 TPP expressly disclaims any direct or indirect loss caused by any participation in the TPP Program including:
 
