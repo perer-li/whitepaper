@@ -261,8 +261,11 @@ Sarah Yan
 
 顾问团队：
 
+Aaron Choi
+毕业于UCSD， 比特币中国 国际业务副总裁 BTCC  VP International Business 。
+
 Bertrand Nouvel
-里昂高等师范计算机博士，WIDE IO 创始人，专注于投资区块链项目
+里昂高等师范计算机博士，WIDE IO 创始人，专注于投资区块链项目。
 
 Richard Su
 全球知名软件公司MVP，在系统开发和运维方面有超过13年工作经验。
@@ -270,8 +273,8 @@ Richard Su
 Geoge Yuan 
 复旦大学法律系博士后，曾任职上海浦东金融办，华宝信托，锦天城律所合伙人。
 
-Aaron Choi
-毕业于UCSD， 比特币中国 国际业务副总裁 BTCC  VP International Business 
+时永飞
+浙江大学本科，清华大学EMBA，曾任Oracle公司高管，美国Webmethods公司（纳斯达克上市）中国区总经理，上海同捷科技有限公司执行总裁，浙大校友企业家联合会副会长。
 
 ## 8. 分配计划
 
