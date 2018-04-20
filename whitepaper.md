@@ -199,10 +199,6 @@ Master Science from Queen Mary, University of London. With 15 years’ experienc
 
 Master of Science in Internet computing from University of London, Peter also has a master’s degree in investment from FuDan University. He worked as senior executives for Citi Bank, Ping An Insurance and a few other internet finance companies. He is specialized in research and development of internet finance and blockchain product.  
 
-#### Jason Li
-
-Master from UCL and is an enrolled PhD. Jason has worked as techleads for investment banks like Deutsche Bank，Merrill Lynch，JP Morgan in Toronto, New York, Hong Kong. Recently he is applying blockchain technology to innovate banking.
-
 #### Susan Maddison
 
 Marketing director Susan is an IT Director of Aetna International，Responsible for the end-to-end delivery of APAC & EMEA portfolio.
