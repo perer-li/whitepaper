@@ -1,4 +1,6 @@
-# Trusted Property Protocol 去中心化的房产交易所 白皮书
+# Trusted Property Protocol 
+# 去中心化的房产交易所
+# 白皮书
                           
 ## 1．背景
 
