@@ -1,5 +1,4 @@
-# Trusted Property Protocol 
-# 信任房产协议
+# Trusted Property Protocol 信任房产协议
 # 白皮书
                           
 ## 1．背景
