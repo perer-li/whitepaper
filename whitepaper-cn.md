@@ -1,5 +1,5 @@
 # Trusted Property Protocol 
-# 去中心化的房产交易所
+# 信任房产协议
 # 白皮书
                           
 ## 1．背景
