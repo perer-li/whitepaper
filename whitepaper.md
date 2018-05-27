@@ -207,9 +207,9 @@ Marketing director Susan is an IT Director of Aetna International，Responsible 
 
 Dr.Zhu is Industrial Visiting Fellow at University of Oxford, Ph.D. in Computer Science from University of London
 
-#### Sarah Yan
+#### Paul Shi
 
-15 years experience in property sales, Sales Director of SOHO China
+Bsc from Zhejiang University, EMBA from Tsinghua University, MD of Oracle, CEO of Webmethods China, CEO of Shanghai Tongjie Ltd.
 
 ### Advisors
 
