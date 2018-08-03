@@ -1,4 +1,4 @@
-# Trusted Property Protocol 信任房产协议
+# Trusted Property Protocol 信任资产协议
 # 白皮书
                           
 ## 1．背景
@@ -254,9 +254,6 @@ Zheng Zhu
 
 顾问团队：
 
-Aaron Choi
-
-毕业于UCSD， 比特币中国 国际业务副总裁 BTCC  VP International Business 。
 
 Bertrand Nouvel
 
@@ -293,7 +290,7 @@ Geoge Yuan
 
 ### 欧洲区块链协会
 
-### 欧润投资
+### 英创资本
 
 
 
